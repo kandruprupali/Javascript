@@ -1,0 +1,39 @@
+.canvas 
+{
+    display:flex;
+    /* justify-content: center;
+    align-items: center;
+    height:200px;
+    width:50%; */
+}
+
+.button 
+{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    margin-left: 10px;
+
+}
+
+#grey 
+{
+    background-color: gray;
+
+}
+
+#white
+{
+    background-color: white;
+    
+}
+#blue
+{
+    background-color: blue;
+    
+}
+#yellow
+{
+    background-color: yellow;
+    
+}
